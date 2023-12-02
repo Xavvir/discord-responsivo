@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+    
+    h1{
+        font-size: 30px;
+    }
+
+    main section{
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    
+    .acessos {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .titulo {
+        font-size: 6vh;
+    }
+
+    .top{
+        padding: 5% 8%;
+    }
+
+    .mid {
+        width: 355px;
+        height: 220px;
+    }
+
+    .prin{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
